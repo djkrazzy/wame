@@ -12,7 +12,7 @@ class FaceController extends Controller
 
     $fb = new Facebook([
         'app_id' => '3391019474450456',
-        'app_secret' => 'e52a0ec50f31e4e2e2a977972e27a6eb',
+        'app_secret' => '',
         'default_graph_version' => 'v8.0',
     ]);
     
